@@ -22,5 +22,8 @@
     "gulp-terser": "^2.0.1",
     "postcss": "^8.3.5",
     "sass": "^1.35.2"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.10"
   }
 }
